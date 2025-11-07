@@ -4,7 +4,7 @@ Welcome! This repository is for reporting bugs and suggesting features for [what
 
 > **Note:** This is an issue-tracking repository only.
 
-## 🐛 Found a Bug?
+## Found a Bug?
 
 Please [open an issue](../../issues/new) and include:
 
@@ -27,7 +27,7 @@ Page: https://whattimeisit.io/asia/nepal.html
 Browser: Chrome 120 on macOS
 ```
 
-## 💡 Have a Feature Request?
+## Have a Feature Request?
 
 We'd love to hear your ideas! [Open an issue](../../issues/new) with:
 
@@ -35,7 +35,7 @@ We'd love to hear your ideas! [Open an issue](../../issues/new) with:
 - **Use case:** How would this help you?
 - **Examples:** Any reference sites or mockups?
 
-## ✅ Before Submitting
+## Before Submitting
 
 - [ ] Search [existing issues](../../issues) to avoid duplicates
 - [ ] Include as much detail as possible
